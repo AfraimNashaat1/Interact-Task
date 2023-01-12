@@ -1,0 +1,38 @@
+<!-- 
+<br/>
+<form>
+    <mat-form-field>
+        <input type="text"
+        placeholder="Search"
+        matInput [formControl]="control"
+        [matAutocomplete]="auto"
+         />
+ 
+    </mat-form-field>
+    <mat-autocomplete #auto  
+    (optionSelected)="optionSelected($event)"
+    >
+     <mat-option *ngFor="let product of products" [value]="product">
+        {{product.Pname}}
+     </mat-option>
+    </mat-autocomplete>
+</form> -->
+
+
+<div class="container">
+  
+    <form [formGroup]="formGroup">
+      <mat-form-field>
+        <mat-label>
+          Product Search
+        </mat-label>
+        <input formControlName="product" matInput type="text" [matAutocomplete]="auto" />
+        <mat-autocomplete #auto="matAutocomplete">
+          <mat-option *ngFor="let item of filteredOptions" [value]="item">
+            {{item}}
+          </mat-option>
+        </mat-autocomplete>
+      </mat-form-field>
+    </form>
+  
+</div>

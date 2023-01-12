@@ -1,0 +1,15 @@
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\bin\Debug\net5.0\ProductSearch.BusinessLogicLayer.deps.json
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\bin\Debug\net5.0\ProductSearch.BusinessLogicLayer.dll
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\bin\Debug\net5.0\ProductSearch.BusinessLogicLayer.pdb
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\obj\Debug\net5.0\ProductSearch.BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\obj\Debug\net5.0\ProductSearch.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\obj\Debug\net5.0\ProductSearch.BusinessLogicLayer.AssemblyInfoInputs.cache
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\obj\Debug\net5.0\ProductSearch.BusinessLogicLayer.AssemblyInfo.cs
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\obj\Debug\net5.0\ProductSearch.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\obj\Debug\net5.0\ProductSearch.BusinessLogicLayer.dll
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\obj\Debug\net5.0\refint\ProductSearch.BusinessLogicLayer.dll
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\obj\Debug\net5.0\ProductSearch.BusinessLogicLayer.pdb
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\obj\Debug\net5.0\ref\ProductSearch.BusinessLogicLayer.dll
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\bin\Debug\net5.0\ProductSearch.DataAccessLayer.dll
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\bin\Debug\net5.0\ProductSearch.DataAccessLayer.pdb
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.BusinessLogicLayer\obj\Debug\net5.0\ProductSearch.BusinessLogicLayer.csproj.CopyComplete

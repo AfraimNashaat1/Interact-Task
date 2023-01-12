@@ -1,0 +1,15 @@
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\bin\Debug\net5.0\ProductSearch.DataAccessLayer.deps.json
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\bin\Debug\net5.0\ProductSearch.DataAccessLayer.runtimeconfig.json
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\bin\Debug\net5.0\ProductSearch.DataAccessLayer.runtimeconfig.dev.json
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\bin\Debug\net5.0\ProductSearch.DataAccessLayer.dll
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\bin\Debug\net5.0\ProductSearch.DataAccessLayer.pdb
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\obj\Debug\net5.0\ProductSearch.DataAccessLayer.csproj.AssemblyReference.cache
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\obj\Debug\net5.0\ProductSearch.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\obj\Debug\net5.0\ProductSearch.DataAccessLayer.AssemblyInfoInputs.cache
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\obj\Debug\net5.0\ProductSearch.DataAccessLayer.AssemblyInfo.cs
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\obj\Debug\net5.0\ProductSearch.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\obj\Debug\net5.0\ProductSearch.DataAccessLayer.dll
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\obj\Debug\net5.0\refint\ProductSearch.DataAccessLayer.dll
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\obj\Debug\net5.0\ProductSearch.DataAccessLayer.pdb
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\obj\Debug\net5.0\ProductSearch.DataAccessLayer.genruntimeconfig.cache
+E:\task\InteractTask\ProductSearchDemo.APILayer\ProductSearch.DataAccessLayer\obj\Debug\net5.0\ref\ProductSearch.DataAccessLayer.dll
